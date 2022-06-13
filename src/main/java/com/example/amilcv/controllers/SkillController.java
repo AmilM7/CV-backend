@@ -21,11 +21,6 @@ public class SkillController {
     public List<Skills> getRestaurants() {
         return skillService.getSkills();
     }
-
-    @PostMapping
-    public Skills createSkill(@RequestBody Skills skill) {
-        return skillService.createSkill(skill);
-    }
 }
 
 
