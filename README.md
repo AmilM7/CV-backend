@@ -2,18 +2,18 @@
 
 ## About project
 
-This project is the backend part of my CV. This was used to demonstrate how to deploy backend application on Heroku and connect it with frontend part. 
+This project is the backend part of my CV. This was used to demonstrate how to deploy the backend part of application on Heroku and connect it with the frontend part. 
 The Spring was used, which is framework and inversion of control container for the Java platform.
 
 ## Instalation
 
-Backend part of this application is initialized using Spring  Initialize using the following link: https://start.spring.io/ 
+Backend part of this application is initialized using Spring Initialize on the following link: https://start.spring.io/ 
 where name of project, description of project and package chosen as Jar were stated.
-Type of project is Maven Project and selected language is Java. Moreover, it is unnecessary to use Java vesrion 17. br>
+Type of project is Maven Project and selected language is Java. Moreover, it is unnecessary to use Java vesrion 17. <br>
 Next step is to add two dependencies: *Spring Web* which uses REST and Tomcat as a default embedded server and 
 pulls in all dependencies related to web development. Second dependency is *Lombok* which helps to reduce boilerplate code. <br>
 Clone this repository using the following command: git clone https://github.com/AmilM7/ress-backend.git <br>
-Click the run/debug icon or Shift+F10 on the keyboard. \
+Click the run/debug icon or Shift+F10 on the keyboard. 
 The application is running in your browser at localhost:8080. 
 
 ## Enviroment variables
