@@ -27,7 +27,7 @@ of a database. <br>
 source will be available.<br>
 
 *on service ui*: **url: ${FRONTEND-API-URL:http://localhost:4200}** which states on which port will it communicate with frontend part of application.<br>
-\
+
 
 **Deployment**\
 This application is deployed on Heroku from where requests are comming. 
