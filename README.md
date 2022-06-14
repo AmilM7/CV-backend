@@ -5,7 +5,7 @@
 This project is the backend part of my CV. This was used to demonstrate how to deploy the backend part of application on Heroku and connect it with the frontend part. 
 The Spring was used, which is framework and inversion of control container for the Java platform.
 
-## Instalation
+## Installation
 
 Backend part of this application is initialized using Spring Initialize on the following link: https://start.spring.io/ 
 where name of project, description of project and package chosen as Jar were stated.
