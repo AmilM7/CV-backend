@@ -2,7 +2,7 @@
 
 ## About project
 
-This project is backend part of my CV. This was used to demonstrate how to deploy backend application on Heroku and connect it with frontend part. 
+This project is the backend part of my CV. This was used to demonstrate how to deploy backend application on Heroku and connect it with frontend part. 
 The Spring was used, which is framework and inversion of control container for the Java platform.
 
 ## Instalation
